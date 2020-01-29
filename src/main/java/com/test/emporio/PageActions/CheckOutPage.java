@@ -77,30 +77,28 @@ public class CheckOutPage {
 		jsHelper = new JavaScriptHelper(driver);
 	}
 
-	public void init() {
-		log.info("log in to the app");
-		driver.get("https://www.bestbuy.com/");
-		tb.captureScreen("bestbuy homepage");
-	}
-
 	public void selectContinueAsGuest() {
 		wait.waitForElement(continueAsGuestBtn, reader.getExplicitWait(), reader.getPollingTime()).click();
 	}
 
 	public void fillShippingInfo(Map<String, String> shippingInfo) {
-		// | FirstName | LastName | Address1 | Address2 | EmailAddress | PhoneNumber |
+		log.info("enter Shipping info");
 		wait.waitForElement(regForm.get(0), reader.getExplicitWait(), reader.getPollingTime())
 				.sendKeys(shippingInfo.get("FirstName"));
 		wait.waitForElement(regForm.get(1), reader.getExplicitWait(), reader.getPollingTime())
 				.sendKeys(shippingInfo.get("LastName"));
 		wait.waitForElement(address1, reader.getExplicitWait(), reader.getPollingTime()).sendKeys("27 ");
-		wait.waitForMillis(1500);
+		wait.waitForMillis(2500);
 		action.sendKeys(Keys.ARROW_DOWN).sendKeys(Keys.ENTER).build().perform();
+		wait.waitForMillis(1500);
 		wait.waitForElement(regForm.get(3), reader.getExplicitWait(), reader.getPollingTime())
 				.sendKeys(shippingInfo.get("Address2"));
 		wait.waitForElement(regForm.get(5), reader.getExplicitWait(), reader.getPollingTime()).clear();
+		wait.waitForMillis(1500);
 		wait.waitForElement(regForm.get(5), reader.getExplicitWait(), reader.getPollingTime())
 				.sendKeys(shippingInfo.get("zipCode"));
+
+		log.info("select billing info same as shipping info");
 
 		jsHelper.scrollIntoView(sameAsBillingAddress);
 		if (!sameAsBillingAddress.isSelected())
@@ -112,6 +110,7 @@ public class CheckOutPage {
 				.sendKeys(shippingInfo.get("PhoneNumber"));
 		wait.waitForElement(continuePayment, reader.getExplicitWait(), reader.getPollingTime()).click();
 		wait.waitForMillis(3000);
+		log.info("Select continue to Pay");
 		continueWithAddressEntered();
 
 	}
@@ -121,11 +120,12 @@ public class CheckOutPage {
 			if (wait.waitForElement(confirmAddressPopup, reader.getLessExplicitWait(), reader.getPollingTime())
 					.isDisplayed()) {
 				wait.waitForMillis(2000);
+				log.info("Select Keep the address entered earlier");
 				wait.waitForElement(keepAddressBtn, reader.getLessExplicitWait(), reader.getPollingTime()).click();
 				wait.waitForMillis(4000);
-				jsHelper.scrollIntoViewAndClick(continuePayment);
-				// wait.waitForElement(continuePayment, reader.getLessExplicitWait(),
-				// reader.getPollingTime()).click();
+				System.out.println(checkIfAddressHeadsUpMessageShown());
+				jsHelper.scrollIntoViewAndClick(
+						wait.waitForElement(continuePayment, reader.getLessExplicitWait(), reader.getPollingTime()));
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

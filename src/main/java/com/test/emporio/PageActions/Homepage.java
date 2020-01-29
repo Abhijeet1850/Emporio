@@ -47,7 +47,7 @@ public class Homepage {
 	}
 
 	public void init() {
-		log.info("log in to the app");
+		log.info("log in to the best buy webapp");
 		driver.get("https://www.bestbuy.com/");
 		tb.captureScreen("bestbuy homepage");
 	}
@@ -64,10 +64,12 @@ public class Homepage {
 	}
 
 	public void chooseLanguage() {
+		log.info("selecting English language");
 		engLanguage.click();
 	}
 
 	public void chooseCountry() {
+		log.info("Selecting US as the country");
 		chooseUSCountry.click();
 	}
 
@@ -78,17 +80,19 @@ public class Homepage {
 			return false;
 		} catch (Exception e) {
 			e.printStackTrace();
+			log.info("Signup Popup is not visible");
 			return false;
 		}
 	}
 
 	public void closeSignUpPopup() {
+		log.info("Singup Popup is closed");
 		modalClose.get(1).click();
 	}
 
 	public void enterProductSearch(String searchText) {
-		// wait.waitForMillis(2000);
 		wait.waitForElement(productSearchInput, reader.getExplicitWait(), reader.getPollingTime()).sendKeys(searchText);
+		log.info("product item search entered");
 		wait.waitForMillis(3000);
 		wait.waitForElement(productSearchSubmit, reader.getExplicitWait(), reader.getPollingTime()).click();
 
