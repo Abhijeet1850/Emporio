@@ -1,0 +1,433 @@
+2020-01-28 17:41:38 INFO  DriverFactory:71 - The driver executable does not exist: C:\Users\test\eclipse-workspace\emporio\src\main\java\com\test\emporio\Drivers\Windows\chromedriver.exe
+2020-01-28 17:42:59 INFO  TestBase:29 - Initialize Web driver: 1741786839
+2020-01-28 17:42:59 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-28 17:42:59 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-28 17:42:59 INFO  Homepage:50 - log in to the app
+2020-01-28 17:43:03 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_28_01_2020_05_43_03.png
+2020-01-28 17:43:03 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (dfa68c1bcec8ed16d8844dab12698910)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-28 17:43:16 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (dfa68c1bcec8ed16d8844dab12698910)] -> css selector: input[title='Sign Up']]for time : 4
+2020-01-28 17:45:03 INFO  TestBase:29 - Initialize Web driver: 1741786839
+2020-01-28 17:45:03 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-28 17:45:03 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-28 17:45:03 INFO  Homepage:50 - log in to the app
+2020-01-28 17:45:07 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_28_01_2020_05_45_07.png
+2020-01-28 17:45:07 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7fb330d9ebba1bd765480ade80c2e839)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-28 17:45:24 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7fb330d9ebba1bd765480ade80c2e839)] -> css selector: input[title='Sign Up']]for time : 4
+2020-01-28 17:45:24 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7fb330d9ebba1bd765480ade80c2e839)] -> css selector: #gh-search-input]for time : 10
+2020-01-28 17:45:24 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7fb330d9ebba1bd765480ade80c2e839)] -> css selector: .header-search-button]for time : 10
+2020-01-28 17:46:52 INFO  TestBase:29 - Initialize Web driver: 1548010882
+2020-01-28 17:46:52 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-28 17:46:52 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-28 17:46:52 INFO  Homepage:50 - log in to the app
+2020-01-28 17:46:56 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_28_01_2020_05_46_56.png
+2020-01-28 17:46:56 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (e535cae1d55c1bec6b4b52f3b913c331)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-28 17:47:08 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (e535cae1d55c1bec6b4b52f3b913c331)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-28 17:47:10 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (e535cae1d55c1bec6b4b52f3b913c331)] -> css selector: #gh-search-input]for time : 10
+2020-01-28 17:47:10 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (e535cae1d55c1bec6b4b52f3b913c331)] -> css selector: .header-search-button]for time : 10
+2020-01-28 17:47:48 INFO  TestBase:29 - Initialize Web driver: 1741786839
+2020-01-28 17:47:48 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-28 17:47:48 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-28 17:47:48 INFO  Homepage:50 - log in to the app
+2020-01-28 17:47:53 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_28_01_2020_05_47_52.png
+2020-01-28 17:47:53 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (bf6640dfe809a6696c60f8752d37b94c)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-28 17:48:05 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (bf6640dfe809a6696c60f8752d37b94c)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-28 17:48:07 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (bf6640dfe809a6696c60f8752d37b94c)] -> css selector: #gh-search-input]for time : 10
+2020-01-28 17:48:10 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (bf6640dfe809a6696c60f8752d37b94c)] -> css selector: .header-search-button]for time : 10
+2020-01-28 22:30:12 INFO  TestBase:29 - Initialize Web driver: 1741786839
+2020-01-28 22:30:12 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-28 22:30:12 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-28 22:30:12 INFO  Homepage:50 - log in to the app
+2020-01-28 22:30:13 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_28_01_2020_10_30_12.png
+2020-01-28 22:30:23 INFO  WaitHelper:87 - waiting for the element Proxy element for: DefaultElementLocator 'By.cssSelector: .language-menu>ul>li>button[lang='e']'for time : 4
+2020-01-28 22:33:44 INFO  TestBase:29 - Initialize Web driver: 1741786839
+2020-01-28 22:33:44 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-28 22:33:44 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-28 22:33:44 INFO  Homepage:50 - log in to the app
+2020-01-28 22:33:46 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_28_01_2020_10_33_45.png
+2020-01-28 22:33:56 INFO  WaitHelper:87 - waiting for the element Proxy element for: DefaultElementLocator 'By.cssSelector: .language-menu>ul>li>button[lang='e']'for time : 4
+2020-01-28 22:34:26 INFO  WaitHelper:87 - waiting for the element Proxy element for: DefaultElementLocator 'By.cssSelector: #gh-search-input'for time : 10
+2020-01-29 01:19:46 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:19:46 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:19:46 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:19:46 INFO  Homepage:50 - log in to the app
+2020-01-29 01:19:47 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_19_47.png
+2020-01-29 01:19:47 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7944386c4442ddb9843dc8d2f568c0bb)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:19:53 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7944386c4442ddb9843dc8d2f568c0bb)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:19:53 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7944386c4442ddb9843dc8d2f568c0bb)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:19:56 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7944386c4442ddb9843dc8d2f568c0bb)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:20:03 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7944386c4442ddb9843dc8d2f568c0bb)] -> css selector: fieldset[name='Price']>ul>li>div>div>div>label>div>input]for time : 10
+2020-01-29 01:32:08 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:32:08 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:32:08 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:32:08 INFO  Homepage:50 - log in to the app
+2020-01-29 01:32:10 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_32_09.png
+2020-01-29 01:32:10 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a722232f845f62c492ca937adbd0af7d)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:32:15 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a722232f845f62c492ca937adbd0af7d)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:32:16 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a722232f845f62c492ca937adbd0af7d)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:32:19 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a722232f845f62c492ca937adbd0af7d)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:33:42 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:33:42 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:33:42 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:33:42 INFO  Homepage:50 - log in to the app
+2020-01-29 01:33:43 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_33_43.png
+2020-01-29 01:33:43 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3eb4cb117386188d52cd716130f1a364)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:33:49 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3eb4cb117386188d52cd716130f1a364)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:33:49 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3eb4cb117386188d52cd716130f1a364)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:33:52 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3eb4cb117386188d52cd716130f1a364)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:43:50 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:43:50 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:43:50 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:43:50 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:43:50 INFO  Homepage:50 - log in to the app
+2020-01-29 01:43:51 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_43_51.png
+2020-01-29 01:43:51 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (11197512d8b4af8a2ed9325872926798)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:43:57 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (11197512d8b4af8a2ed9325872926798)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:43:57 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (11197512d8b4af8a2ed9325872926798)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:44:01 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (11197512d8b4af8a2ed9325872926798)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:44:05 INFO  JavaScriptHelper:30 - scrolling to element
+2020-01-29 01:45:03 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:45:03 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:45:03 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:45:04 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:45:04 INFO  Homepage:50 - log in to the app
+2020-01-29 01:45:06 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_45_05.png
+2020-01-29 01:45:06 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1622788240a8b108ca4dcb965b169443)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:45:13 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1622788240a8b108ca4dcb965b169443)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:45:14 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1622788240a8b108ca4dcb965b169443)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:45:17 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1622788240a8b108ca4dcb965b169443)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:45:21 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 01:46:57 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:46:57 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:46:57 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:46:57 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:46:57 INFO  Homepage:50 - log in to the app
+2020-01-29 01:46:58 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_46_58.png
+2020-01-29 01:46:58 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:47:03 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:47:04 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:47:07 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:47:11 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 01:47:11 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 01:47:16 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 01:47:18 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: span.success-text]for time : 10
+2020-01-29 01:47:18 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 01:47:21 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: a[aria-label='Update Location']]for time : 10
+2020-01-29 01:47:21 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: input#location]for time : 10
+2020-01-29 01:47:22 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: .btn.btn-secondary.btn-md]for time : 10
+2020-01-29 01:47:22 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (a1fecb248bcb27d5b41fb904ccc12d56)] -> css selector: input[name='availability-selection']]for time : 10
+2020-01-29 01:49:15 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:49:15 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:49:15 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:49:15 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:49:15 INFO  Homepage:50 - log in to the app
+2020-01-29 01:49:16 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_49_16.png
+2020-01-29 01:49:16 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1eac347c723c7610e6c5590dda088f0e)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:49:22 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1eac347c723c7610e6c5590dda088f0e)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:49:22 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1eac347c723c7610e6c5590dda088f0e)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:49:25 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1eac347c723c7610e6c5590dda088f0e)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:49:29 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 01:49:29 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 01:49:33 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (1eac347c723c7610e6c5590dda088f0e)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 01:49:44 INFO  WaitHelper:87 - waiting for the element Proxy element for: DefaultElementLocator 'By.cssSelector: span.success-text'for time : 10
+2020-01-29 01:51:04 INFO  TestBase:29 - Initialize Web driver: 838812606
+2020-01-29 01:51:04 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:51:04 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:51:04 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:51:04 INFO  Homepage:50 - log in to the app
+2020-01-29 01:51:06 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_51_05.png
+2020-01-29 01:51:06 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:51:11 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:51:12 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:51:15 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:51:20 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 01:51:20 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 01:51:25 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 01:51:27 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: span.success-text]for time : 10
+2020-01-29 01:51:27 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 01:51:30 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: a[aria-label='Update Location']]for time : 10
+2020-01-29 01:51:30 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: input#location]for time : 10
+2020-01-29 01:51:30 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: .btn.btn-secondary.btn-md]for time : 10
+2020-01-29 01:51:31 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (9af20d4ccd2dadcc71db784b2efd69bb)] -> css selector: .listing-header__button>button]for time : 10
+2020-01-29 01:51:41 INFO  WaitHelper:87 - waiting for the element Proxy element for: DefaultElementLocator 'By.cssSelector: .button-wrap>a'for time : 10
+2020-01-29 01:54:46 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:54:46 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:54:46 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:54:46 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:54:46 INFO  Homepage:50 - log in to the app
+2020-01-29 01:54:48 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_54_47.png
+2020-01-29 01:54:48 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (d6aed1528427b517ab8b5fe0b0cdc250)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:54:53 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (d6aed1528427b517ab8b5fe0b0cdc250)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:54:54 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (d6aed1528427b517ab8b5fe0b0cdc250)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:54:57 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (d6aed1528427b517ab8b5fe0b0cdc250)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:55:03 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 01:55:03 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 01:55:34 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 01:55:34 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:55:34 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:55:34 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:55:34 INFO  Homepage:50 - log in to the app
+2020-01-29 01:55:35 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_55_35.png
+2020-01-29 01:55:35 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (77fc544110d777e3dd798627b27668d1)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:55:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (77fc544110d777e3dd798627b27668d1)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:55:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (77fc544110d777e3dd798627b27668d1)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:55:46 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (77fc544110d777e3dd798627b27668d1)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:55:51 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 01:55:51 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 01:57:18 INFO  TestBase:29 - Initialize Web driver: 2002097394
+2020-01-29 01:57:18 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:57:18 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:57:18 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:57:18 INFO  Homepage:50 - log in to the app
+2020-01-29 01:57:19 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_57_19.png
+2020-01-29 01:57:19 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (435262d18e70120404025a221d083206)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:57:26 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (435262d18e70120404025a221d083206)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:57:26 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (435262d18e70120404025a221d083206)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:57:29 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (435262d18e70120404025a221d083206)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:57:34 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 01:57:35 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 01:58:35 INFO  TestBase:29 - Initialize Web driver: 838812606
+2020-01-29 01:58:35 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 01:58:35 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 01:58:35 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 01:58:35 INFO  Homepage:50 - log in to the app
+2020-01-29 01:58:36 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_01_58_36.png
+2020-01-29 01:58:36 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (f798a0ef6ac09399e2c7485c877634b8)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 01:58:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (f798a0ef6ac09399e2c7485c877634b8)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 01:58:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (f798a0ef6ac09399e2c7485c877634b8)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 01:58:45 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (f798a0ef6ac09399e2c7485c877634b8)] -> css selector: .header-search-button]for time : 10
+2020-01-29 01:58:50 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 01:58:50 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 01:58:56 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (f798a0ef6ac09399e2c7485c877634b8)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 01:58:59 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (f798a0ef6ac09399e2c7485c877634b8)] -> css selector: span.success-text]for time : 10
+2020-01-29 01:58:59 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (f798a0ef6ac09399e2c7485c877634b8)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 01:59:02 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (f798a0ef6ac09399e2c7485c877634b8)] -> css selector: input#availability-radio-1]for time : 10
+2020-01-29 02:03:09 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 02:03:09 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 02:03:09 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 02:03:09 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:03:09 INFO  Homepage:50 - log in to the app
+2020-01-29 02:03:11 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_02_03_11.png
+2020-01-29 02:03:11 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (b60956934454807cd5a87e071d2f7b6a)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 02:03:17 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (b60956934454807cd5a87e071d2f7b6a)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 02:03:17 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (b60956934454807cd5a87e071d2f7b6a)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 02:03:20 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (b60956934454807cd5a87e071d2f7b6a)] -> css selector: .header-search-button]for time : 10
+2020-01-29 02:03:26 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:03:26 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:03:32 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (b60956934454807cd5a87e071d2f7b6a)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 02:03:34 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (b60956934454807cd5a87e071d2f7b6a)] -> css selector: span.success-text]for time : 10
+2020-01-29 02:03:35 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (b60956934454807cd5a87e071d2f7b6a)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 02:08:24 INFO  TestBase:29 - Initialize Web driver: 838812606
+2020-01-29 02:08:24 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 02:08:24 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 02:08:24 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:08:24 INFO  Homepage:50 - log in to the app
+2020-01-29 02:08:25 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_02_08_25.png
+2020-01-29 02:08:25 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 02:08:33 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 02:08:33 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 02:08:36 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: .header-search-button]for time : 10
+2020-01-29 02:08:41 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:08:41 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:08:47 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 02:08:48 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: span.success-text]for time : 10
+2020-01-29 02:08:49 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 02:08:52 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: .listing-header__button>button]for time : 10
+2020-01-29 02:08:58 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: .button-wrap>a]for time : 10
+2020-01-29 02:09:02 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:09:03 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:09:03 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (7b8c815c61fac5d2db6aa7cff3359811)] -> css selector: input.form-control.autocomplete__input]for time : 10
+2020-01-29 02:10:16 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 02:10:16 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 02:10:16 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 02:10:16 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:10:16 INFO  Homepage:50 - log in to the app
+2020-01-29 02:10:17 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_02_10_17.png
+2020-01-29 02:10:17 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 02:10:23 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 02:10:24 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 02:10:27 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: .header-search-button]for time : 10
+2020-01-29 02:10:33 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:10:33 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:10:43 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 02:10:44 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: span.success-text]for time : 10
+2020-01-29 02:10:45 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 02:10:48 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: .listing-header__button>button]for time : 10
+2020-01-29 02:10:54 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: .button-wrap>a]for time : 10
+2020-01-29 02:10:59 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:11:00 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:11:00 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: input.form-control.autocomplete__input]for time : 10
+2020-01-29 02:11:01 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:11:02 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:11:02 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:11:02 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (5f434c391d458c192e4cd987da20783b)] -> css selector: input#save-for-billing-address-ui_address_2]for time : 10
+2020-01-29 02:17:58 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 02:17:58 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 02:17:58 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 02:17:58 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:17:58 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:17:58 INFO  Homepage:50 - log in to the app
+2020-01-29 02:18:00 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_02_17_59.png
+2020-01-29 02:18:00 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 02:18:08 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 02:18:08 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 02:18:11 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: .header-search-button]for time : 10
+2020-01-29 02:18:16 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:18:17 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:18:22 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 02:18:23 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: span.success-text]for time : 10
+2020-01-29 02:18:24 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 02:18:27 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: .listing-header__button>button]for time : 10
+2020-01-29 02:18:32 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: .button-wrap>a]for time : 10
+2020-01-29 02:18:37 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:18:37 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:18:37 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input.form-control.autocomplete__input]for time : 10
+2020-01-29 02:18:39 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:18:40 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:18:40 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:18:40 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:18:40 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:18:41 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:18:41 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: .button--continue>button]for time : 10
+2020-01-29 02:18:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: div.modal-content]for time : 4
+2020-01-29 02:18:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: div.modal-content>div>button.btn.btn-secondary.btn-block]for time : 4
+2020-01-29 02:18:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (ea2d8f7aee0ade3a3bcb4edecf91a507)] -> css selector: .button--continue>button]for time : 4
+2020-01-29 02:18:57 INFO  WaitHelper:87 - waiting for the element Proxy element for: DefaultElementLocator 'By.cssSelector: #optimized-cc-card-number'for time : 10
+2020-01-29 02:21:39 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 02:21:39 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 02:21:39 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 02:21:39 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:21:39 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:21:39 INFO  Homepage:50 - log in to the app
+2020-01-29 02:21:41 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_02_21_40.png
+2020-01-29 02:21:41 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 02:21:47 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 02:21:47 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 02:21:50 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: .header-search-button]for time : 10
+2020-01-29 02:21:55 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:21:55 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:22:01 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 02:22:03 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: span.success-text]for time : 10
+2020-01-29 02:22:03 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 02:22:06 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: .listing-header__button>button]for time : 10
+2020-01-29 02:22:12 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: .button-wrap>a]for time : 10
+2020-01-29 02:22:16 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:22:16 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:22:17 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input.form-control.autocomplete__input]for time : 10
+2020-01-29 02:22:18 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:22:19 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:22:19 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:22:19 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:22:19 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:22:19 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:22:20 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: .button--continue>button]for time : 10
+2020-01-29 02:22:21 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: div.modal-content]for time : 4
+2020-01-29 02:22:22 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (896612549efea4370fb939e13602a297)] -> css selector: div.modal-content>div>button.btn.btn-secondary.btn-block]for time : 4
+2020-01-29 02:22:23 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:22:34 INFO  WaitHelper:87 - waiting for the element Proxy element for: DefaultElementLocator 'By.cssSelector: #optimized-cc-card-number'for time : 10
+2020-01-29 02:24:13 INFO  TestBase:29 - Initialize Web driver: 2002097394
+2020-01-29 02:24:13 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 02:24:13 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 02:24:13 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:24:13 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:24:13 INFO  Homepage:50 - log in to the app
+2020-01-29 02:24:14 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_02_24_14.png
+2020-01-29 02:24:14 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 02:24:21 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 02:24:21 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 02:24:24 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: .header-search-button]for time : 10
+2020-01-29 02:24:29 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:24:29 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:24:34 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 02:24:37 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: span.success-text]for time : 10
+2020-01-29 02:24:37 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 02:24:41 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: .listing-header__button>button]for time : 10
+2020-01-29 02:24:47 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: .button-wrap>a]for time : 10
+2020-01-29 02:24:51 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:24:52 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:24:52 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input.form-control.autocomplete__input]for time : 10
+2020-01-29 02:24:54 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:24:54 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:24:54 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:24:55 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:24:55 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:24:55 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:24:55 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: .button--continue>button]for time : 10
+2020-01-29 02:24:57 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: div.modal-content]for time : 4
+2020-01-29 02:24:57 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: div.modal-content>div>button.btn.btn-secondary.btn-block]for time : 4
+2020-01-29 02:25:14 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:25:35 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: #optimized-cc-card-number]for time : 10
+2020-01-29 02:25:35 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: select[name='expiration-month']]for time : 10
+2020-01-29 02:25:35 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: select[name='expiration-year']]for time : 10
+2020-01-29 02:25:36 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: #credit-card-cvv]for time : 10
+2020-01-29 02:25:36 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: .button--place-order>button]for time : 4
+2020-01-29 02:25:37 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (3d11f674207721fbd8fb069a5e7e8c72)] -> css selector: div.error-spacing>div>span]for time : 4
+2020-01-29 02:28:06 INFO  TestBase:29 - Initialize Web driver: 838812606
+2020-01-29 02:28:06 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 02:28:06 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 02:28:06 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:28:06 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:28:06 INFO  Homepage:50 - log in to the app
+2020-01-29 02:28:07 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_02_28_07.png
+2020-01-29 02:28:07 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 02:28:12 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 02:28:12 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 02:28:16 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: .header-search-button]for time : 10
+2020-01-29 02:28:20 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:28:20 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:28:26 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 02:28:27 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: span.success-text]for time : 10
+2020-01-29 02:28:28 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 02:28:31 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: .listing-header__button>button]for time : 10
+2020-01-29 02:28:37 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: .button-wrap>a]for time : 10
+2020-01-29 02:28:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:28:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:28:42 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input.form-control.autocomplete__input]for time : 10
+2020-01-29 02:28:44 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:28:44 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:28:45 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:28:45 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:28:45 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:28:46 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:28:46 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: .button--continue>button]for time : 10
+2020-01-29 02:28:47 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: div.modal-content]for time : 4
+2020-01-29 02:28:47 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (c4781988c9842913717babf45b31672d)] -> css selector: div.modal-content>div>button.btn.btn-secondary.btn-block]for time : 4
+2020-01-29 02:28:51 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:29:02 INFO  WaitHelper:87 - waiting for the element Proxy element for: DefaultElementLocator 'By.cssSelector: #optimized-cc-card-number'for time : 10
+2020-01-29 02:30:29 INFO  TestBase:29 - Initialize Web driver: 1533985074
+2020-01-29 02:30:29 INFO  WaitHelper:28 - the implicit time has been changed to 10 SECONDS
+2020-01-29 02:30:29 INFO  WaitHelper:33 - the page load time has been changed to 20 SECONDS
+2020-01-29 02:30:29 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:30:29 INFO  JavaScriptHelper:16 - javascriptHelper object initialized
+2020-01-29 02:30:29 INFO  Homepage:50 - log in to the app
+2020-01-29 02:30:30 INFO  TestBase:53 - snapshot taken at C:\Users\test\eclipse-workspace\emporio\src\main\resources\Screenshots\bestbuy homepage_29_01_2020_02_30_30.png
+2020-01-29 02:30:30 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: .language-menu>ul>li>button[lang='en']]for time : 4
+2020-01-29 02:30:38 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input[title='Sign Up']]for time : 10
+2020-01-29 02:30:38 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: #gh-search-input]for time : 10
+2020-01-29 02:30:41 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: .header-search-button]for time : 10
+2020-01-29 02:30:47 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:30:47 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:30:53 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: div.fulfillment-add-to-cart-button>div>button]for time : 10
+2020-01-29 02:30:54 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: span.success-text]for time : 10
+2020-01-29 02:30:55 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: a.cart-nav]for time : 10
+2020-01-29 02:30:58 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: .listing-header__button>button]for time : 10
+2020-01-29 02:31:04 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: .button-wrap>a]for time : 10
+2020-01-29 02:31:08 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:31:08 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:31:09 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input.form-control.autocomplete__input]for time : 10
+2020-01-29 02:31:10 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:31:11 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:31:11 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:31:11 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:31:11 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:31:12 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: input.form-control]for time : 10
+2020-01-29 02:31:12 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: .button--continue>button]for time : 10
+2020-01-29 02:31:15 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: div.modal-content]for time : 4
+2020-01-29 02:31:17 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: div.modal-content>div>button.btn.btn-secondary.btn-block]for time : 4
+2020-01-29 02:31:21 INFO  JavaScriptHelper:41 - scrolling to element
+2020-01-29 02:31:21 INFO  JavaScriptHelper:48 - scrolling and clicking element
+2020-01-29 02:31:24 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: #optimized-cc-card-number]for time : 10
+2020-01-29 02:31:24 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: select[name='expiration-month']]for time : 10
+2020-01-29 02:31:25 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: select[name='expiration-year']]for time : 10
+2020-01-29 02:31:25 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: #credit-card-cvv]for time : 10
+2020-01-29 02:31:25 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: .button--place-order>button]for time : 4
+2020-01-29 02:31:26 INFO  WaitHelper:87 - waiting for the element [[ChromeDriver: chrome on WINDOWS (4cc353816f8b524cd2985922b93a810e)] -> css selector: div.error-spacing>div>span]for time : 4

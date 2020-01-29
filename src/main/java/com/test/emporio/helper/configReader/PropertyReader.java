@@ -34,6 +34,10 @@ public class PropertyReader {
 	public Long getExplicitWait() {
 		return Long.parseLong(mvConfig.getProperty("explicitwait"));
 	}
+	
+	public Long getLessExplicitWait() {
+		return Long.parseLong(mvConfig.getProperty("LessExplicitWait"));
+	}
 
 	public Long getPageLoadTime() {
 		return Long.parseLong(mvConfig.getProperty("pageloadTime"));

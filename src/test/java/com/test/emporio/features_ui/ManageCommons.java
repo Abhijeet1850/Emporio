@@ -10,7 +10,7 @@ public class ManageCommons {
 
 	TestBase testbase;
 	PropertyReader reader = new PropertyReader();
-	public final String driverPath = "\\src\\main\\java\\com\\test\\emporio\\Drivers";
+	public final String driverPath = "\\src\\main\\java\\com\\test\\emporio\\driver";
 
 	@Before
 	public void setUp() {
