@@ -1,8 +1,8 @@
 @test
-Feature: Check Login functionality with OrangeHRM
+Feature: Create Order Flow in BestBuy
 
   @tag1
-  Scenario: Verify Successful login to Orange HRM
+  Scenario: Verify Order Creation with BestBuy
     Given I visit the bestbuy url "https://www.bestbuy.com"
     And I Search for the Product "Pillow" on HomePage
     And I filter out the Products from ProductList page using Price Filter
