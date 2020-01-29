@@ -3,6 +3,7 @@ package com.test.emporio.PageActions;
 import java.util.List;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -42,23 +43,22 @@ public class ProductListPage {
 		action = new Actions(driver);
 	}
 
-	public void init() {
-		log.info("log in to the app");
-		driver.get("https://www.bestbuy.com/");
-		tb.captureScreen("bestbuy homepage");
-	}
-
 	public void selectPriceFilter() {
 		jsHelper.scrollIntoViewAndClick(priceFilter.get(1));
+		log.info("price Filter selected");
 		wait.waitForMillis(2500);
 	}
 
 	public void selectFirstAvailableProduct() {
+		addToCart = wait.waitForElementsLocatedBy(By.cssSelector("div.fulfillment-add-to-cart-button>div>button"),
+				reader.getLessExplicitWait(), reader.getPollingTime());
 		for (int i = 0; i < addToCart.size(); i++) {
-			if (addToCart.get(i).isEnabled())
+			if (addToCart.get(i).isEnabled()) {
 				productImage.get(i).click();
-			break;
+				break;
+			}
 		}
+		log.info("item added to cart");
 	}
 
 }

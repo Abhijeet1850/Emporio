@@ -26,7 +26,7 @@
 		<javax-mail-version>1.4.7</javax-mail-version>
 		<jsch-version>0.1.55</jsch-version>
 		<rest-assured-version>3.2.0</rest-assured-version>
-		<jackson-version>2.9.9</jackson-version>
+		<jackson-version>2.9.10.1</jackson-version>
 		<org-jsoup-version>1.11.2</org-jsoup-version>
 		<testng-version>6.9.10</testng-version>
 	</properties>
@@ -207,4 +207,55 @@
 			</plugin>
 		</plugins>
 	</build>
+	<profiles>
+		<profile>
+			<id>Emporio-qa-ui</id>
+			<activation>
+				<activeByDefault>false</activeByDefault>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-compiler-plugin</artifactId>
+						<version>3.7.0</version>
+						<configuration>
+							<source>1.8</source>
+							<target>1.8</target>
+							<testSource>1.8</testSource>
+							<testTarget>1.8</testTarget>
+							<encoding>UTF-8</encoding>
+						</configuration>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.21.0</version>
+						<configuration>
+							<redirectTestOutputToFile>false</redirectTestOutputToFile>
+							<systemPropertyVariables>
+								<service.url>https://www.bestbuy.com</service.url>
+								<environment>dev</environment>
+							</systemPropertyVariables>
+						</configuration>
+						<executions>
+							<execution>
+								<id>ui-test</id>
+								<goals>
+									<goal>test</goal>
+								</goals>
+								<phase>integration-test</phase>
+								<configuration>
+									<runOrder>alphabetical</runOrder>
+									<includes>
+										<include>**/ITRunCukes.java</include>
+									</includes>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
 </project>

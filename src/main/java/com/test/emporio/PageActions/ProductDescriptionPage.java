@@ -22,15 +22,15 @@ public class ProductDescriptionPage {
 	WaitHelper wait;
 	PropertyReader reader = new PropertyReader();
 	Actions action;
-	
-	public static final String verifyAddToCartText= "Item added to cart";
+
+	public static final String verifyAddToCartText = "Item added to cart";
 
 	@FindBy(css = "div.fulfillment-add-to-cart-button>div>button")
 	List<WebElement> addToCart;
 
-	@FindBy(css="span.success-text")
+	@FindBy(css = "span.success-text")
 	WebElement addToCartSuccess;
-	
+
 	@FindBy(css = "a.cart-nav")
 	WebElement goToCart;
 
@@ -41,25 +41,21 @@ public class ProductDescriptionPage {
 		action = new Actions(driver);
 	}
 
-	public void init() {
-		log.info("log in to the app");
-		driver.get("https://www.bestbuy.com/");
-		tb.captureScreen("bestbuy homepage");
-	}
-
 	public void addItemToCart() {
+		tb.captureScreen("bestbuyproductdescription");
+		log.info("Added Item to Cart");
 		wait.waitForElement(addToCart.get(0), reader.getExplicitWait(), reader.getPollingTime()).click();
 	}
-	
-	public boolean verifyIfItemAddedToCart()
-	{
-		if(wait.waitForElement(addToCartSuccess,reader.getExplicitWait(), reader.getPollingTime()).getAttribute("innerHTML").equals(verifyAddToCartText))
+
+	public boolean verifyIfItemAddedToCart() {
+		if (wait.waitForElement(addToCartSuccess, reader.getExplicitWait(), reader.getPollingTime())
+				.getAttribute("innerHTML").equals(verifyAddToCartText))
 			return true;
 		return false;
 	}
-	
-	public void goToCart()
-	{
+
+	public void goToCart() {
+		log.info("Select Go TO Cart function");
 		wait.waitForElement(goToCart, reader.getExplicitWait(), reader.getPollingTime()).click();
 	}
 

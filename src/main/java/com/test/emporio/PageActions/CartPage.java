@@ -45,25 +45,14 @@ public class CartPage {
 		action = new Actions(driver);
 	}
 
-	public void init() {
-		log.info("log in to the app");
-		driver.get("https://www.bestbuy.com/");
-		tb.captureScreen("bestbuy homepage");
-	}
-
 	public void selectShipToAddress(String zip) {
-		// wait.waitForElement(updateLocation, reader.getExplicitWait(),
-		// reader.getPollingTime()).click();
-		// wait.waitForElement(zipCode, reader.getExplicitWait(),
-		// reader.getPollingTime()).sendKeys(zip);
-		// wait.waitForElement(zipUpdateBtn, reader.getExplicitWait(),
-		// reader.getPollingTime()).click();
+		log.info("Select Shipping option");
 		if (!shipTo.isSelected())
 			shipTo.click();
-		// shipTo.click();
 	}
 
 	public void clickCheckout() {
+		log.info("Select Checkout button");
 		wait.waitForElement(checkoutBtn, reader.getExplicitWait(), reader.getPollingTime()).click();
 	}
 
