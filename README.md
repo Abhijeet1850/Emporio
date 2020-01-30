@@ -7,4 +7,4 @@ To Run the test code
 2. Install Maven 
 3. Run mvn clean install -PEmporio-qa-ui in command prompt
     OR 
-    Export maven project in Eclipse and run file ITrunkes.java as junit test or run login.feature file
+    Export maven project in Eclipse and run file ITRunCukes.java file as junit test or run OrderCreateFlow.feature file with cuumber in eclipse
