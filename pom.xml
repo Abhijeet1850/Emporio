@@ -27,7 +27,7 @@
 		<jsch-version>0.1.55</jsch-version>
 		<rest-assured-version>3.2.0</rest-assured-version>
 		<jackson-version>2.9.10.1</jackson-version>
-		<org-jsoup-version>1.11.2</org-jsoup-version>
+		<org-jsoup-version>1.14.2</org-jsoup-version>
 		<testng-version>6.9.10</testng-version>
 	</properties>
 
