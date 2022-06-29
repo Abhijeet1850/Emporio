@@ -19,7 +19,7 @@
 		<cucumber-jvm-deps-version>1.0.6</cucumber-jvm-deps-version>
 		<assertJ-version>3.6.2</assertJ-version>
 		<junit-version>4.12</junit-version>
-		<poi-version>3.17</poi-version>
+		<poi-version>4.1.1</poi-version>
 		<opencsv-version>4.1</opencsv-version>
 		<cassandra-driver-core-version>3.7.1</cassandra-driver-core-version>
 		<joda-time-version>2.9.1</joda-time-version>
